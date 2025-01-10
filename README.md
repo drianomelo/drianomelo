@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Suas linguagens"];
+  linguagens = [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)];
   bibliotecas = ["Suas bibliotecas"];
   frameworks = ["Seus frameworks"];
 }
